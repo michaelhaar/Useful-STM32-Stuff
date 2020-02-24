@@ -15,12 +15,11 @@
  ******************************************************************************
  * @file           : filename.h
  * @author         : Michael Haar
- * @brief          : Header for xxx.c file.
- *                   This file contains the common defines of the application.
+ * @brief          : Header for filename.c file.
  ******************************************************************************
  * @attention
  *
- * <h2><center>&copy; Copyright (c) 2019 DiniTech GmbH.
+ * <h2><center>&copy; Copyright (c) 2020 DiniTech GmbH.
  * All rights reserved.</center></h2>
  *
  ******************************************************************************
